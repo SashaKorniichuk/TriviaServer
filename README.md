@@ -1,5 +1,5 @@
 # TriviaServer
-1.clone project
+1.clone project\n
 2.in Trivia.WebAPI find appsettings.json and change connectionString to your local connection
 3.Start Trivia.WebAPI on https://localhost:5001
 4.Open http://fgftestapi.somee.com and specify your API url (https://localhost:5001) in the prompt
